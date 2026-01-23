@@ -80,5 +80,5 @@ Q78::27472.08
 Q79::0
 Q80::-29761.42
 Q81::T
-Q82::1/2
+Q82::.5
 Q83::Because their tributary areas combined (each =1/2 of interior) are equal to the tributary area of the interior truss
